@@ -1,0 +1,794 @@
+2017-07-10 17:20:57,048 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: javaparaweb:financeiro:0.0.1-SNAPSHOT @ E:\Willians\WorkSpace\financeiro\financeiro\pom.xml.
+2017-07-10 17:21:04,145 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /financeiro/src/main/java
+2017-07-10 17:21:04,146 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /financeiro/src/main/resources
+2017-07-10 17:21:04,146 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /financeiro/src/test/java
+2017-07-10 17:21:04,626 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 36 sec
+2017-07-10 17:21:11,382 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 17:21:11,392 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-10 17:21:12,903 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 17:21:12,904 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:25:04,341 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:25:04,352 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:25:04,363 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:25:04,364 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:28:21,313 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:28:21,401 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:28:21,404 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:28:21,404 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:28:37,809 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:28:37,810 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:28:37,813 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:28:37,813 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:28:46,657 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:28:46,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:28:46,661 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:28:46,661 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:29:11,431 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:29:11,432 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:29:11,433 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:29:11,434 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:29:26,855 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:29:26,856 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:29:26,858 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:29:26,858 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:31:04,624 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:31:04,624 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:31:04,624 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:31:04,624 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:31:16,838 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:31:16,838 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:31:16,853 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:31:16,853 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:32:13,537 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:32:13,537 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:32:13,537 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:32:13,537 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:32:35,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:32:35,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:32:35,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:32:35,662 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:33:05,369 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:33:05,369 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:33:05,369 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:33:05,369 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:33:50,836 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:33:50,836 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:33:50,836 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:33:50,836 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:33:54,005 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:33:54,005 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:33:54,005 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:33:54,005 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:34:06,650 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:06,650 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:34:06,650 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:06,650 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:34:08,954 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:08,954 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:34:08,954 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:08,954 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:34:20,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:20,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:34:20,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:20,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:34:27,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:27,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:34:27,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:34:27,273 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:35:05,325 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:05,325 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:35:05,325 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:05,325 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:35:10,528 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:10,528 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:35:10,528 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:10,528 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:35:29,497 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:29,497 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:35:29,497 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:29,497 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:35:32,747 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:32,747 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:35:32,747 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:35:32,747 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:36:34,097 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:36:34,097 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:36:34,097 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:36:34,097 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:36:37,551 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:36:37,551 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:36:37,551 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:36:37,551 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:37:14,007 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:14,022 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:37:14,022 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:14,022 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:37:26,728 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:26,728 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:37:26,728 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:26,728 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:37:44,308 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:44,308 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:37:44,308 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:44,308 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:37:50,194 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:50,194 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:37:50,194 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:50,194 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:37:54,514 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:54,514 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:37:54,514 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:37:54,514 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:38:45,799 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:38:45,815 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:38:45,815 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:38:45,815 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:43:29,952 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:43:29,952 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:43:29,968 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:43:29,968 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:43:32,179 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:43:32,179 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:43:32,194 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:43:32,194 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:44:22,096 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:44:22,096 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:44:22,096 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:44:22,096 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:45:55,517 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:45:55,532 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:45:55,532 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:45:55,532 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:46:12,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:46:12,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:46:12,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:46:12,564 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:46:19,782 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:46:19,782 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:46:19,782 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:46:19,782 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:46:53,802 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:46:53,802 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:46:53,802 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:46:53,802 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:48:24,448 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:48:24,448 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:48:24,448 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:48:24,448 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:48:40,863 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:48:40,879 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:48:40,879 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:48:40,879 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:49:28,861 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:49:28,861 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:49:28,861 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:49:28,861 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:49:32,861 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:49:32,861 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:49:32,877 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:49:32,877 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:50:03,304 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:50:03,304 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:50:03,304 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:50:03,304 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:50:53,773 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:50:53,773 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:50:53,773 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:50:53,773 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:51:33,625 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:51:33,625 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:51:33,641 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:51:33,641 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:52:37,517 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:52:37,517 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:52:37,517 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:52:37,517 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:52:49,034 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:52:49,034 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:52:49,036 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:52:49,036 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:53:48,600 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:53:48,600 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:53:48,602 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:53:48,602 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:54:23,926 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:54:23,928 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:54:23,931 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:54:23,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:54:28,119 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:54:28,119 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:54:28,121 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:54:28,121 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:54:39,350 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:54:39,351 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:54:39,352 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:54:39,352 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:55:19,068 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:55:19,069 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:55:19,071 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:55:19,071 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:55:58,018 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:55:58,019 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:55:58,022 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:55:58,023 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:56:02,905 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:56:02,905 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:56:02,907 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:56:02,907 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:56:16,803 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:56:16,803 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:56:16,803 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:56:16,803 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:57:15,922 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:57:15,922 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:57:15,922 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:57:15,922 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:57:34,439 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:57:34,439 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:57:34,454 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:57:34,454 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 13:58:41,413 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:58:41,413 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 13:58:41,413 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 13:58:41,413 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:00:00,230 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:00:00,230 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:00:00,230 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:00:00,230 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:00:36,921 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:00:36,921 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:00:36,936 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:00:36,936 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:00:52,719 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:00:52,719 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:00:52,719 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:00:52,719 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:01:52,678 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:01:52,678 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:01:52,678 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:01:52,678 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:06:11,854 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:06:11,854 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:06:11,854 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:06:11,854 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:06:42,823 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:06:42,823 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:06:42,823 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:06:42,823 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:06:46,307 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:06:46,307 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:06:46,307 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:06:46,307 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:39:50,105 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:39:50,121 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:39:50,121 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:39:50,121 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:40:12,481 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:40:12,481 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:40:12,481 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:40:12,481 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:40:27,168 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:40:27,168 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:40:27,168 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:40:27,168 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:41:45,482 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:41:45,482 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:41:45,482 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:41:45,482 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:42:22,521 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:42:22,537 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:42:22,537 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:42:22,537 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:43:05,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:43:05,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:43:05,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:43:05,442 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:43:31,765 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:43:31,765 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:43:31,765 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:43:31,765 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:44:09,891 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:44:09,891 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:44:09,891 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:44:09,891 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:44:15,835 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:44:15,835 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:44:15,835 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:44:15,835 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:44:34,599 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:44:34,599 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:44:34,599 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:44:34,599 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:45:03,360 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:45:03,360 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:45:03,360 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:45:03,360 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:45:24,539 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:45:24,539 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:45:24,539 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:45:24,539 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:46:03,238 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:03,238 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:46:03,238 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:03,238 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:46:16,136 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:16,136 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:46:16,151 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:16,151 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:46:21,449 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:21,449 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:46:21,449 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:21,449 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:46:39,910 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:39,910 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:46:39,910 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:39,910 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:46:55,160 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:55,160 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:46:55,160 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:46:55,160 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:47:23,064 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:47:23,080 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:47:23,080 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:47:23,080 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:47:31,649 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:47:31,649 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:47:31,649 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:47:31,649 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:48:04,724 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:48:04,724 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:48:04,740 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:48:04,740 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:49:39,391 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:49:39,391 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:49:39,391 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:49:39,391 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:49:51,179 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:49:51,179 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:49:51,179 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:49:51,179 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:51:43,532 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:51:43,532 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:51:43,532 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:51:43,532 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:53:29,490 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:53:29,490 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:53:29,492 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:53:29,492 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:53:48,776 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:53:48,777 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:53:48,780 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:53:48,780 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:54:06,359 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:54:06,361 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:54:06,364 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:54:06,365 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:54:34,759 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:54:34,759 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:54:34,761 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:54:34,762 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:54:54,196 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:54:54,197 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:54:54,198 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:54:54,198 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:55:05,032 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:55:05,033 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:55:05,035 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:55:05,036 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:55:28,960 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:55:28,961 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:55:28,962 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:55:28,962 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 14:55:52,837 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:55:52,838 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 14:55:52,839 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 14:55:52,840 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:48:38,357 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:48:38,357 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:48:38,357 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:48:38,357 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:49:13,794 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:49:13,794 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:49:13,794 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:49:13,794 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:49:54,825 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:49:54,825 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:49:54,825 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:49:54,825 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:49:59,322 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:49:59,322 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:49:59,338 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:49:59,338 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:50:08,141 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:50:08,141 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:50:08,156 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:50:08,156 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:50:41,659 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:50:41,659 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:50:41,659 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:50:41,659 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:51:04,407 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:04,407 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:51:04,407 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:04,407 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:51:08,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:08,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:51:08,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:08,657 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:51:34,681 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:34,681 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:51:34,681 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:34,681 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:51:39,056 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:39,056 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:51:39,056 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:39,056 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:51:41,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:41,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:51:41,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:41,806 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:51:48,322 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:48,322 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:51:48,338 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:51:48,338 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:52:51,864 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:52:51,864 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:52:51,864 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:52:51,864 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:52:59,317 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:52:59,317 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:52:59,317 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:52:59,317 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:53:33,954 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:53:33,954 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:53:33,969 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:53:33,969 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:54:07,973 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:07,974 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:54:07,975 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:07,975 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:54:29,707 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:29,708 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:54:29,709 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:29,709 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:54:48,539 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:48,540 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:54:48,540 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:48,541 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:54:50,865 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:50,866 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:54:50,867 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:54:50,867 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:55:05,824 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:05,825 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:55:05,826 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:05,826 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:55:10,076 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:10,077 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:55:10,078 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:10,078 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:55:23,997 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:23,998 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:55:24,000 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:24,000 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:55:41,657 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:41,658 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:55:41,660 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:55:41,660 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:56:14,625 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:56:14,625 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:56:14,625 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:56:14,625 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:56:25,797 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:56:25,797 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:56:25,797 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:56:25,797 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:56:56,100 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:56:56,100 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:56:56,100 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:56:56,100 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:57:02,423 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:57:02,423 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:57:02,423 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:57:02,423 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:57:56,528 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:57:56,528 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:57:56,528 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:57:56,528 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:58:20,227 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:58:20,227 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:58:20,227 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:58:20,227 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 15:58:53,425 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:58:53,440 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 15:58:53,440 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 15:58:53,440 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:00:33,732 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:00:33,732 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:00:33,748 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:00:33,748 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:01:08,301 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:01:08,301 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:01:08,301 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:01:08,301 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:01:10,958 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:01:10,958 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:01:10,958 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:01:10,958 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:01:38,419 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:01:38,419 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:01:38,419 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:01:38,419 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:02:58,354 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:02:58,369 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:02:58,369 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:03:24,115 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:03:24,115 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:03:24,115 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:03:24,115 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:04:01,139 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:04:01,139 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:04:01,154 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:04:01,154 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:04:23,754 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:04:23,754 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:04:23,754 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:04:23,754 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:04:47,732 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:04:47,732 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:04:47,732 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:04:47,732 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:05:06,167 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:05:06,167 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:05:06,167 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:05:06,167 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:05:29,341 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:05:29,341 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:05:29,341 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:05:29,341 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:05:46,498 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:05:46,498 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:05:46,498 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:05:46,498 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:06:27,737 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:06:27,737 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:06:27,737 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:06:27,737 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:07:14,254 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:07:14,254 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:07:14,254 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:07:14,254 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:08:10,331 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:08:10,331 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:08:10,331 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:08:10,331 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:09:18,608 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:09:18,608 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:09:18,608 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:09:18,608 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:16:15,320 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:16:15,320 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:16:15,320 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:16:15,320 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:16:53,443 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:16:53,443 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:16:53,443 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:16:53,443 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:17:32,184 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:17:32,184 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:17:32,184 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:17:32,184 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:17:42,754 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:17:42,770 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:17:42,770 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:17:42,770 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:18:54,820 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:18:54,820 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:18:54,820 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:18:54,820 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:19:43,947 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:19:43,947 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:19:43,947 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:19:43,947 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:19:56,572 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:19:56,572 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:19:56,572 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:19:56,572 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:20:55,207 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:20:55,207 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:20:55,207 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:20:55,207 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:20:57,615 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:20:57,615 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:20:57,615 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:20:57,615 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:21:25,528 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:21:25,528 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:21:25,528 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:21:25,528 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:22:22,653 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:22:22,653 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:22:22,653 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:22:22,653 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:22:30,795 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:22:30,795 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:22:30,795 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:22:30,795 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:23:21,189 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:23:21,189 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:23:21,189 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:23:21,189 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:23:39,194 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:23:39,194 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:23:39,194 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:23:39,194 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:24:01,661 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:01,661 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:24:01,661 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:01,661 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:24:10,043 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:10,043 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:24:10,043 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:10,043 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:24:32,672 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:32,672 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:24:32,672 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:32,672 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:24:40,251 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:40,251 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:24:40,251 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:24:40,251 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:25:01,460 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:25:01,460 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:25:01,460 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:25:01,460 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:25:06,679 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:25:06,679 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:25:06,679 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:25:06,679 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:25:27,870 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:25:27,870 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 16:25:27,870 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 16:25:27,870 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
+2017-07-11 16:48:36,758 [Worker-83] ERROR o.e.j.i.s.file.ObjectDirectory - ERROR: Exception caught while accessing pack file E:\Willians\WorkSpace\financeiro\.git\objects\pack\pack-3a4d90e1c37a1d32bf0847f8bbd590efa170679d.pack, the pack file might be corrupt
+java.io.IOException: O dispositivo não está pronto
+	at java.io.RandomAccessFile.readBytes(Native Method) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.read(Unknown Source) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.readFully(Unknown Source) ~[na:1.8.0_131]
+	at org.eclipse.jgit.internal.storage.file.PackFile.read(PackFile.java:667) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:289) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:368) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:179) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:338) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.inflate(WindowCursor.java:300) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.decompress(PackFile.java:344) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.load(PackFile.java:754) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.get(PackFile.java:263) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:420) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:389) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:381) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:156) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.reset(CanonicalTreeParser.java:214) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.createSubtreeIterator0(CanonicalTreeParser.java:248) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.createSubtreeIterator(CanonicalTreeParser.java:226) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.createSubtreeIterator(CanonicalTreeParser.java:70) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.TreeWalk.enterSubtree(TreeWalk.java:1216) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.TreeWalk.next(TreeWalk.java:834) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.lib.IndexDiff.diff(IndexDiff.java:439) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.calcIndexDiffDataFull(IndexDiffCacheEntry.java:665) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.access$8(IndexDiffCacheEntry.java:653) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$4.run(IndexDiffCacheEntry.java:403) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-11 16:48:37,539 [Worker-87] ERROR o.e.j.i.s.file.ObjectDirectory - ERROR: Exception caught while accessing pack file E:\Willians\WorkSpace\financeiro\.git\objects\pack\pack-3a4d90e1c37a1d32bf0847f8bbd590efa170679d.pack, the pack file might be corrupt
+java.io.IOException: O dispositivo não está pronto
+	at java.io.RandomAccessFile.readBytes(Native Method) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.read(Unknown Source) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.readFully(Unknown Source) ~[na:1.8.0_131]
+	at org.eclipse.jgit.internal.storage.file.PackFile.read(PackFile.java:667) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:289) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:368) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:179) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:338) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.inflate(WindowCursor.java:300) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.decompress(PackFile.java:344) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.load(PackFile.java:754) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.get(PackFile.java:263) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:420) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:389) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:381) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:156) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:705) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.next(ObjectWalk.java:300) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.findObjectsToPack(PackWriter.java:1776) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.preparePack(PackWriter.java:799) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.preparePack(PackWriter.java:759) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.preparePack(PackWriter.java:713) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.BasePackPushConnection.writePack(BasePackPushConnection.java:353) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.BasePackPushConnection.doPush(BasePackPushConnection.java:216) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.TransportHttp$SmartHttpPushConnection.doPush(TransportHttp.java:870) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.BasePackPushConnection.push(BasePackPushConnection.java:168) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:172) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1275) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:161) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:217) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:77) [org.eclipse.egit.ui_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:48) [org.eclipse.egit.ui_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-11 16:49:46,783 [Worker-85] ERROR o.e.j.i.s.file.ObjectDirectory - ERROR: Exception caught while accessing pack file E:\Willians\WorkSpace\financeiro\.git\objects\pack\pack-3a4d90e1c37a1d32bf0847f8bbd590efa170679d.pack, the pack file might be corrupt
+java.io.IOException: O dispositivo não está pronto
+	at java.io.RandomAccessFile.readBytes(Native Method) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.read(Unknown Source) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.readFully(Unknown Source) ~[na:1.8.0_131]
+	at org.eclipse.jgit.internal.storage.file.PackFile.read(PackFile.java:667) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:289) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:368) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:179) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:338) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.inflate(WindowCursor.java:300) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.decompress(PackFile.java:344) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.load(PackFile.java:754) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.get(PackFile.java:263) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:420) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:389) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:381) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:156) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.reset(CanonicalTreeParser.java:214) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.createSubtreeIterator0(CanonicalTreeParser.java:248) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.createSubtreeIterator(CanonicalTreeParser.java:226) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.CanonicalTreeParser.createSubtreeIterator(CanonicalTreeParser.java:70) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.TreeWalk.enterSubtree(TreeWalk.java:1216) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.treewalk.TreeWalk.next(TreeWalk.java:834) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.lib.IndexDiff.diff(IndexDiff.java:439) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.calcIndexDiffDataFull(IndexDiffCacheEntry.java:665) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.access$8(IndexDiffCacheEntry.java:653) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$4.run(IndexDiffCacheEntry.java:403) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-11 16:49:47,717 [Worker-83] ERROR o.e.j.i.s.file.ObjectDirectory - ERROR: Exception caught while accessing pack file E:\Willians\WorkSpace\financeiro\.git\objects\pack\pack-3a4d90e1c37a1d32bf0847f8bbd590efa170679d.pack, the pack file might be corrupt
+java.io.IOException: O dispositivo não está pronto
+	at java.io.RandomAccessFile.readBytes(Native Method) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.read(Unknown Source) ~[na:1.8.0_131]
+	at java.io.RandomAccessFile.readFully(Unknown Source) ~[na:1.8.0_131]
+	at org.eclipse.jgit.internal.storage.file.PackFile.read(PackFile.java:667) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:289) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:368) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:179) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:338) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.inflate(WindowCursor.java:300) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.decompress(PackFile.java:344) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.load(PackFile.java:754) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.PackFile.get(PackFile.java:263) ~[org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:420) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:389) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:381) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:156) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:705) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.markTreeUninteresting(ObjectWalk.java:730) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.revwalk.ObjectWalk.next(ObjectWalk.java:300) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.findObjectsToPack(PackWriter.java:1776) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.preparePack(PackWriter.java:799) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.preparePack(PackWriter.java:759) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.internal.storage.pack.PackWriter.preparePack(PackWriter.java:713) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.BasePackPushConnection.writePack(BasePackPushConnection.java:353) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.BasePackPushConnection.doPush(BasePackPushConnection.java:216) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.TransportHttp$SmartHttpPushConnection.doPush(TransportHttp.java:870) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.BasePackPushConnection.push(BasePackPushConnection.java:168) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:172) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1275) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:161) [org.eclipse.jgit_4.6.1.201703071140-r.jar:4.6.1.201703071140-r]
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:217) [org.eclipse.egit.core_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:77) [org.eclipse.egit.ui_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:48) [org.eclipse.egit.ui_4.6.1.201703071140-r.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-07-12 15:58:27,421 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-12 15:58:27,436 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-12 15:58:27,452 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-12 15:58:27,453 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Willians\WorkSpace\financeiro\financeiro\src\test\resources
