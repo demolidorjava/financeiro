@@ -37,7 +37,6 @@ public class ContaRN {
 			this.contaDAO.Salvar(conta);
 		}
 		contaFavorita.setFavorita(true);
-		;
 		this.contaDAO.Salvar(contaFavorita);
 	}
 

@@ -48,7 +48,20 @@ xmlns:f="http://xmlns.jcp.org/jsf/core">
  <h:outputLabel value="Confirmar senha:" for="confirmarSenha" />
  <h:inputSecret id="confirmarSenha" label="confirmar senha" value="#{usuarioBean.confirmarSenha}" size="10" maxlength="10" required="true" redisplay="true" />
 </h:panelGrid>
-<h:commandButton action="#{usuarioBean.salvar}" value="Salvar" />
+<h:panelGroup rendered="#{empty  usuarioBean.usuario.codigo}">
+<fieldset>
+<legend>Conta Inicial</legend>
+<h:panelGrid columns="2">
+<h:outputLabel value="Descrição:" for="descricao" />
+<h:inputText id="descricao" label="Descrição"  value="#{usuarioBean.conta.descricao}" required="true" maxlength="45" />
+<h:outputLabel value="Saldo inicial:" for="saldoInicial" />
+<h:inputText id="saldoInicial" label="Saldo inicial" value="#{usuarioBean.conta.saldoInicial}" size="10">
+<f:convertNumber minFractionDigits="2" />
+</h:inputText>
+</h:panelGrid>
+</fieldset>
+</h:panelGroup>
+<h:commandButton action="#{usuarioBean.salvar}" value="Salvar!" />
 </h:form>
 </h:body>
 </html>

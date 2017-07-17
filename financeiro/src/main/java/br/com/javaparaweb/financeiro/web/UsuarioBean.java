@@ -1,7 +1,6 @@
 package br.com.javaparaweb.financeiro.web;
 
 import java.util.List;
-
 import java.util.Set;
 
 import javax.faces.application.FacesMessage;
@@ -9,6 +8,8 @@ import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 import javax.faces.context.FacesContext;
 
+import br.com.javaparaweb.financeiro.conta.Conta;
+import br.com.javaparaweb.financeiro.conta.ContaRN;
 import br.com.javaparaweb.financeiro.usuario.Usuario;
 import br.com.javaparaweb.financeiro.usuario.UsuarioRN;
 
@@ -19,6 +20,7 @@ public class UsuarioBean {
 	private String confirmarSenha;
 	private List<Usuario> lista;
 	private String destinoSalvar;
+private Conta conta = new Conta();
 
 	public String atribuiPermissao(Usuario usuario, String permissao) {
 		this.usuario = usuario;
@@ -57,6 +59,12 @@ public class UsuarioBean {
 		UsuarioRN usuarioRN = new UsuarioRN();
 		usuarioRN.salvar(this.usuario);
 
+		if(this.conta.getDescricao() != null) {
+			this.conta.setUsuario(this.usuario);
+			this.conta.setFavorita(true);;
+			ContaRN contaRN = new ContaRN();
+			contaRN.salvar(this.conta);
+		}
 		return this.destinoSalvar;
 	}
 
@@ -117,4 +125,12 @@ public class UsuarioBean {
 		this.destinoSalvar = destinoSalvar;
 	}
 
+	public Conta getConta() {
+		return conta;
+	}
+
+	public void setConta(Conta conta) {
+		this.conta = conta;
+	}
+	
 }

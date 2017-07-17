@@ -17,7 +17,8 @@ public class ContaDAOHibernate implements ContaDAO {
 
 	@Override
 	public void Salvar(Conta conta) {
-this.session.saveOrUpdate(conta);
+//this.session.saveOrUpdate(conta);
+		this.session.merge(conta);
 	}
 	
 	@Override
