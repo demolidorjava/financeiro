@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"
+<html xmlns="http://www.w3.org/1999/xhtml"
 xmlns:h="http://xmlns.jcp.org/jsf/html"
-xmlns:f="http://xmlns.jcp.org/jsf/core">
-<h:head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Cadastro de usuários</title>
-</h:head>
-<h:body>
-<h1>Cadastro de Usuários</h1>
+xmlns:f="http://xmlns.jcp.org/jsf/core"
+xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+<ui:composition template="/templates/interna.xhtml">
+<ui:define name="titulo">
+Cadastro de usuários
+</ui:define>
+<ui:define name="corpo">
 <h:form id="cadastro">
 <h:messages />
 <h:inputHidden value="#{usuarioBean.usuario.codigo}" />
@@ -63,5 +63,6 @@ xmlns:f="http://xmlns.jcp.org/jsf/core">
 </h:panelGroup>
 <h:commandButton action="#{usuarioBean.salvar}" value="Salvar!" />
 </h:form>
-</h:body>
+</ui:define>
+</ui:composition>
 </html>

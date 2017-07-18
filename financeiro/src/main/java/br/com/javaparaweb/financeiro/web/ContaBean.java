@@ -73,8 +73,4 @@ public void setContextoBean(ContextoBean contextoBean) {
 	this.contextoBean = contextoBean;
 }
 
-public String getStatusFavorita() {
-	return this.selecionada.isFavorita() ? "Conta Favorita" : "Conta Comum";	 
-}
-
 }
