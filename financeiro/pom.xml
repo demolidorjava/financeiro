@@ -32,6 +32,12 @@
 			<name>jvnet-nexus-releases</name>
 			<url>https://maven.java.net/content/repositories/releases/</url>
 		</repository>
+		<repository>
+	<id>prime-repo</id>
+	<name>PrimeFaces Maven Repository</name>
+	<url>http://repository.primefaces.org</url>
+	<layout>default</layout>
+</repository>
 	</repositories>
 		<dependencies>
 		<!-- Java Server Faces -->
@@ -46,6 +52,11 @@
 			<artifactId>javax.faces</artifactId>
 			<version>2.2.10</version>
 		</dependency>
+		         <dependency>
+            <groupId>jstl</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
 		<!-- Hibernate -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -78,6 +89,11 @@
 	<groupId>commons-logging</groupId>
 	<artifactId>commons-logging</artifactId>
 	<version>1.1.1</version>
+</dependency>
+<dependency>
+	<groupId>org.primefaces</groupId>
+	<artifactId>primefaces</artifactId>
+	<version>5.0</version>
 </dependency>
 	</dependencies>
 	

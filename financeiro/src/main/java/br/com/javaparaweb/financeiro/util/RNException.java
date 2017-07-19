@@ -2,9 +2,6 @@ package br.com.javaparaweb.financeiro.util;
 
 public class RNException extends Exception {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 4966751484514669135L;
 
 	public RNException() {
@@ -26,7 +23,8 @@ public class RNException extends Exception {
 		// TODO Auto-generated constructor stub
 	}
 
-	public RNException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+	public RNException(String message, Throwable cause,
+			boolean enableSuppression, boolean writableStackTrace) {
 		super(message, cause, enableSuppression, writableStackTrace);
 		// TODO Auto-generated constructor stub
 	}

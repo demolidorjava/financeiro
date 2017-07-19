@@ -2,7 +2,6 @@ package br.com.javaparaweb.financeiro.conta;
 
 import java.util.Date;
 import java.util.List;
-
 import br.com.javaparaweb.financeiro.usuario.Usuario;
 import br.com.javaparaweb.financeiro.util.DAOFactory;
 
@@ -23,7 +22,7 @@ public class ContaRN {
 
 	public void salvar(Conta conta) {
 		conta.setDataCadastro(new Date());
-		this.contaDAO.Salvar(conta);
+		this.contaDAO.salvar(conta);
 	}
 
 	public void excluir(Conta conta) {
@@ -34,10 +33,10 @@ public class ContaRN {
 		Conta conta = this.buscarFavorita(contaFavorita.getUsuario());
 		if (conta != null) {
 			conta.setFavorita(false);
-			this.contaDAO.Salvar(conta);
+			this.contaDAO.salvar(conta);
 		}
 		contaFavorita.setFavorita(true);
-		this.contaDAO.Salvar(contaFavorita);
+		this.contaDAO.salvar(contaFavorita);
 	}
 
 	public Conta buscarFavorita(Usuario usuario) {
