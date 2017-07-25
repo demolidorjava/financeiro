@@ -31,7 +31,8 @@ public class Categoria implements Serializable {
 	@ManyToOne
 	@JoinColumn(name = "categoria_pai", nullable = true, foreignKey = @ForeignKey(name = "fk_categoria_categoria"))
 	private Categoria pai;
-
+	
+@ManyToOne
 	@JoinColumn(name = "usuario", foreignKey = @ForeignKey(name = "fk_categoria_usuario"))
 	@OnDelete(action = OnDeleteAction.CASCADE)
 	private Usuario usuario;

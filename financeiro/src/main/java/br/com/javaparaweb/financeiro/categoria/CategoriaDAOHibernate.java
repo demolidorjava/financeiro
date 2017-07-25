@@ -36,7 +36,7 @@ public Categoria carregar(Integer categoria) {
 }
 
 public List<Categoria> listar(Usuario usuario) {
-	String hql = "select c from Categoria c whre c.pai is null and c.usuario = :usuario";
+	String hql = "select c from Categoria c where c.pai is null and c.usuario = :usuario";
 	Query query = this.session.createQuery(hql);
 	query.setInteger("usuario",  usuario.getCodigo());
 	List<Categoria> lista = query.list();
