@@ -35,10 +35,12 @@ public Categoria carregar(Integer categoria) {
 	return (Categoria) this.session.get(Categoria.class,  categoria);
 }
 
+@SuppressWarnings("unchecked")
 public List<Categoria> listar(Usuario usuario) {
 	String hql = "select c from Categoria c where c.pai is null and c.usuario = :usuario";
 	Query query = this.session.createQuery(hql);
 	query.setInteger("usuario",  usuario.getCodigo());
+	
 	List<Categoria> lista = query.list();
 	
 	return lista;
