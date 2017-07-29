@@ -34,7 +34,7 @@ title="#{msg['idioma_'.concat(idioma)]}" />
 <h:form id="listagem">
 <h:dataTable value="#{chequeBean.lista}" var="cheque" rendered="#{! empty chequeBean.lista}">
 <h:column>
-<f:facet name="header">#{msg.cheque_coluna_cheque</f:facet>
+<f:facet name="header">#{msg.cheque_coluna_cheque}</f:facet>
 <h:outputText value="#{cheque.chequeId.cheque}" />
 </h:column>
 <h:column>

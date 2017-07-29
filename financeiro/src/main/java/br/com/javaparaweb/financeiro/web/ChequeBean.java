@@ -11,6 +11,7 @@ import javax.faces.context.FacesContext;
 import br.com.javaparaweb.financeiro.cheque.Cheque;
 import br.com.javaparaweb.financeiro.cheque.ChequeRN;
 import br.com.javaparaweb.financeiro.conta.Conta;
+import br.com.javaparaweb.financeiro.util.MensagemUtil;
 import br.com.javaparaweb.financeiro.util.RNException;
 
 @ManagedBean
@@ -36,7 +37,7 @@ public void salvar() {
 	} else {
 		ChequeRN chequeRN = new ChequeRN();
 		int totalCheques = chequeRN.salvarSequencia(conta, this.chequeInicial, this.chequeFinal);
-		MensagemUtil.getMensagem("cheque_info_cadastro", this.chequeFinal, totalCheques);
+		String texto = MensagemUtil.getMensagem("cheque_info_cadastro", this.chequeFinal, totalCheques);
 		context.addMessage(null, new FacesMessage(texto));
 		this.lista = null;
 	}
@@ -63,7 +64,7 @@ public void cancelar() {
 		chequeRN.cancelarCheque(this.selecionado);
 	}catch(RNException e) {
 		FacesContext context = FacesContext.getCurrentInstance();
-		MensagemUtil.getMensagem("cheque_erro_cancelar");
+		String texto = MensagemUtil.getMensagem("cheque_erro_cancelar");
 		FacesMessage msg = new FacesMessage(texto);
 		msg.setSeverity(FacesMessage.SEVERITY_WARN);
 		context.addMessage(null, msg);
