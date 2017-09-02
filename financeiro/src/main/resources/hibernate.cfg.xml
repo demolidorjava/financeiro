@@ -11,5 +11,6 @@
 
 		<mapping class="br.com.javaparaweb.financeiro.usuario.Usuario"/> 
 <mapping class="br.com.javaparaweb.financeiro.conta.Conta" />
-	</session-factory>
+<mapping class="br.com.javaparaweb.financeiro.bolsa.acao.Acao" />
+</session-factory>
 </hibernate-configuration>
